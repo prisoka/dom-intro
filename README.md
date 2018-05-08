@@ -1,4 +1,17 @@
-# DOM_Intro_Exercise
+# DOM Intro Exercise
+
+## Deployed URL: 
+http://introdom.surge.sh/
+
+## What are you looking at? 
+
+This is a DOM manipulation training exercise, of week 3, at Galvanize Web Dev Immersive.
+
+## Time:
+Completed in few hours. 
+
+## Skills Learned: 
+HTML, CSS, JavaScript, and Surge to deploy.
 
 Practice manipulating the DOM!
 
