@@ -13,7 +13,7 @@ Completed in few hours.
 ## Skills Learned: 
 HTML, CSS, JavaScript, and Surge to deploy.
 
-Practice manipulating the DOM!
+## The exercise:Practice manipulating the DOM!
 
 In a separate JS file:
 
